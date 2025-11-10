@@ -1,12 +1,12 @@
 # e-commerce-Website
 
-# 👗 Touskié – E-Commerce Website
+# Touskié – E-Commerce Website
 
 > A stylish and responsive fashion e-commerce website built with **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 📌 Project Summary
+## Project Summary
 
 **Touskié** is a fashion retail e-commerce site featuring a modern, responsive design. Built from scratch using front-end technologies, it simulates a real-world shopping experience for clothing and accessories.
 
